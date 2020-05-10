@@ -1,0 +1,10 @@
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe.config
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csprojAssemblyReference.cache
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not_Defteri.Form1.resources
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csproj.GenerateResource.cache
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csproj.CoreCompileInputs.cache
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not Defteri.exe
+C:\Users\Negan\Desktop\Files\Applications\Not Defteri\Not Defteri\obj\Debug\Not Defteri.pdb
